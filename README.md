@@ -37,7 +37,7 @@ operational indicators related to shipping and product returns.
 ## Key KPIs
 
 - Total Sales - $2.30M
-- Order - 5,009
+- Order - 9,994
 - Profit - $286.40K
 - Profit Margin - 12.47%
 - Return Rate - 5.91%
