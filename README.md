@@ -33,3 +33,16 @@ operational indicators related to shipping and product returns.
 - Created a Quarter column combining the quarter and year for quarterly analysis.
 - Created a numerical Quarter Sorting column to maintain the correct chronological order of quarters.
 - Removed an unnecessary duplicate Year column to avoid redundancy.
+
+## Key KPIs
+
+- Total Sales - $2.30M
+- Order - 5,009
+- Profit - $286.40K
+- Profit Margin - 12.47%
+- Return Rate - 5.91%
+- Delivery days average - 34.61 days
+- Shipping days median - 4 days
+- Orders Growth - 28.29% (2017 vs previous year)
+
+- 
