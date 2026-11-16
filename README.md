@@ -44,5 +44,3 @@ operational indicators related to shipping and product returns.
 - Delivery days average - 34.61 days
 - Shipping days median - 4 days
 - Orders Growth - 28.29% (2017 vs previous year)
-
-- 
