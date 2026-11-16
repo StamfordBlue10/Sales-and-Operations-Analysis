@@ -22,3 +22,14 @@ operational indicators related to shipping and product returns.
 - Microsoft Power BI Desktop
 - Power Query
 - Power BI Data Visualization
+
+## Data Cleaning and Preparation
+
+- Assigned appropriate data types to columns, including dates, whole numbers, decimal numbers, and text fields.
+- Extracted the year from the Order Date column to support yearly analysis.
+- Created a Shipping Days column by calculating the difference between Ship Date and Order Date.
+- Created a Month column using the MM-yyyy format for monthly trend analysis.
+- Created a numerical Month Sorting column (YYYYMM) to ensure chronological sorting rather than alphabetical sorting.
+- Created a Quarter column combining the quarter and year for quarterly analysis.
+- Created a numerical Quarter Sorting column to maintain the correct chronological order of quarters.
+- Removed an unnecessary duplicate Year column to avoid redundancy.
