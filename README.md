@@ -16,3 +16,9 @@ operational indicators related to shipping and product returns.
 6. What is the return rate, and how does it vary by shipping mode?
 7. How do shipping days differ across shipping modes?
 8. Are there notable quarterly trends in orders and returns?
+
+## Tools used
+
+- Microsoft Power BI Desktop
+- Power Query
+- Power BI Data Visualization
