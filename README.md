@@ -49,22 +49,22 @@ operational indicators related to shipping and product returns.
 
 ### Sales and Profitability
 
-1. **Technology Leads in Sales and Profitability** – The Technology category recorded the highest total sales and the highest profit margin at **17.40%**, making it the strongest-performing category in terms of both sales and profitability.
+- **Technology Leads in Sales and Profitability** – The Technology category recorded the highest total sales and the highest profit margin at **17.40%**, making it the strongest-performing category in terms of both sales and profitability.
 
-2. **2017 Was the Strongest Year** – 2017 achieved the highest total sales, order volume, and total profit across the four-year period. The West and East regions were the major contributors to this performance.
+- **2017 Was the Strongest Year** – 2017 achieved the highest total sales, order volume, and total profit across the four-year period. The West and East regions were the major contributors to this performance.
 
-3. **Discounts and Profitability** – The analysis revealed a substantial negative relationship between discount levels and profit margins. Higher discounts were generally associated with lower profitability.
+- **Discounts and Profitability** – The analysis revealed a substantial negative relationship between discount levels and profit margins. Higher discounts were generally associated with lower profitability.
 
 ### Order and Shipping Operations
 
-4. **Standard Class Dominates Order Volume** – Nearly 60% of all orders were processed through Standard Class, making it the most frequently used shipping mode. It recorded the longest average order-to-shipment time at **41.85 days**, despite having a median of only **5 days**.
+- **Standard Class Dominates Order Volume** – Nearly 60% of all orders were processed through Standard Class, making it the most frequently used shipping mode. It recorded the longest average order-to-shipment time at **41.85 days**, despite having a median of only **5 days**.
 
-5. **Standard Class Has the Highest Number of Returned Orders** – Standard Class recorded **168 returned orders**, the highest among all shipping modes. Its larger order volume should also be considered when evaluating its return performance.
+- **Standard Class Has the Highest Number of Returned Orders** – Standard Class recorded **168 returned orders**, the highest among all shipping modes. Its larger order volume should also be considered when evaluating its return performance.
 
-6. **Same Day Has the Highest Return Rate** – Despite handling only **264 orders**, Same Day recorded the highest return rate at **7.20%**. This warrants further investigation, particularly given its relatively low order volume.
+- **Same Day Has the Highest Return Rate** – Despite handling only **264 orders**, Same Day recorded the highest return rate at **7.20%**. This warrants further investigation, particularly given its relatively low order volume.
 
-7. **Recurring Quarterly Order Pattern** – Order volume generally increased from Q1 through Q4 before declining again at the beginning of the following year. This recurring pattern may indicate seasonal fluctuations in order activity.
+- **Recurring Quarterly Order Pattern** – Order volume generally increased from Q1 through Q4 before declining again at the beginning of the following year. This recurring pattern may indicate seasonal fluctuations in order activity.
 
-8. **A Sharp Increase in Returns During Q4 2016** – Q3 2016 recorded **361 orders** with a return rate of **3.32%**. In Q4, order volume increased to **411 orders**, while the return rate more than doubled to **7.06%**. This significant increase warrants further investigation.
+- **A Sharp Increase in Returns During Q4 2016** – Q3 2016 recorded **361 orders** with a return rate of **3.32%**. In Q4, order volume increased to **411 orders**, while the return rate more than doubled to **7.06%**. This significant increase warrants further investigation.
 
-9. **Same Day Has the Shortest Order-to-Ship Time** – Same Day recorded a median order-to-shipment time of **0 days** and an average of **0.88 days**. This indicates that at least half of Same Day orders were shipped on the same calendar day they were placed.
+- **Same Day Has the Shortest Order-to-Ship Time** – Same Day recorded a median order-to-shipment time of **0 days** and an average of **0.88 days**. This indicates that at least half of Same Day orders were shipped on the same calendar day they were placed.
