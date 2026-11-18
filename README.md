@@ -57,7 +57,7 @@ operational indicators related to shipping and product returns.
 
 ### Order and Shipping Operations
 
-- **Standard Class Dominates Order Volume** – Nearly 60% of all orders were processed through Standard Class, making it the most frequently used shipping mode. It recorded the longest average order-to-shipment time at **41.85 days**, despite having a median of only **5 days**.
+- **Standard Class Dominates Order Volume** – Nearly 60% of all orders were processed through Standard Class, making it the most frequently used shipping mode. It recorded the longest average order-to-shipment time at **41.85 days**, despite having a typical transit time of only **5 days**.
 
 - **Standard Class Has the Highest Number of Returned Orders** – Standard Class recorded **168 returned orders**, the highest among all shipping modes. Its larger order volume should also be considered when evaluating its return performance.
 
