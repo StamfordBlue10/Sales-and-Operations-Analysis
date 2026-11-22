@@ -68,3 +68,18 @@ operational indicators related to shipping and product returns.
 - **A Sharp Increase in Returns During Q4 2016** – Q3 2016 recorded **361 orders** with a return rate of **3.32%**. In Q4, order volume increased to **411 orders**, while the return rate more than doubled to **7.06%**. This significant increase warrants further investigation.
 
 - **Same Day Has the Shortest Order-to-Ship Time** – Same Day recorded a median order-to-shipment time of **0 days** and an average of **0.88 days**. This indicates that at least half of Same Day orders were shipped on the same calendar day they were placed.
+
+
+## Business Recommendations
+
+- **Strengthen the Technology Category's Performance** – Since Technology leads in both total sales and profit margin, the business should evaluate opportunities to maintain its performance through effective inventory management, product availability, and targeted marketing strategies.
+
+- **Review Discounting Strategies** – Given the negative relationship between discount levels and profit margins, the business should reassess its discounting strategies. Establishing discount thresholds and monitoring profitability after discounts may help prevent excessive reductions in margins.
+
+- **Investigate Extended Standard Class Shipping Times** – Standard Class handles nearly 60% of orders and has an average order-to-shipment time of 41.85 days, compared with a median of 5 days. The business should investigate unusually long processing times and identify potential operational bottlenecks.
+
+- **Investigate Same Day Returns** – Despite having the shortest order-to-shipment time, Same Day has the highest return rate at 7.20%. The business should examine returned products, customer segments, and order characteristics to identify possible reasons behind the higher return rate.
+
+- **Monitor Seasonal Order and Return Patterns** – The recurring increase in order volume toward Q4 suggests that the business should prepare inventory and operational capacity ahead of peak periods. The sharp increase in the return rate during Q4 2016 also highlights the need for closer monitoring of returns during high-volume periods.
+
+- **Evaluate Shipping Mode Performance Using Return Rates** – Rather than relying solely on the number of returned orders, the business should compare return rates across shipping modes. This provides a fairer assessment of return performance while accounting for differences in order volume.****
